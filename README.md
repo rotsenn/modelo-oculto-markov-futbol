@@ -271,6 +271,6 @@ En la carpeta `docs/` se encuentra el artículo académico que documenta el fund
 
 ## Autor
 
-**[Nombre del autor]**
+**Néstor Santiago Avendaño Pérez**
 
 Proyecto académico desarrollado en el marco de Ingeniería de Software y Datos.
